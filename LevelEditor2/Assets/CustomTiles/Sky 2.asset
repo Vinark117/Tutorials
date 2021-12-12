@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1773336770c46f4cb8b39b7da8456ec, type: 3}
+  m_Name: Sky 2
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: de74d06e990114046b50d01f6378e1a5, type: 2}
+  id: Sky 2
+  tilemap: 10
