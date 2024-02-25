@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 25_GrowthLaser
+  m_EditorClassIdentifier: 
+  tilemap: 5
+  tilemode: 0
+  tile: {fileID: 11400000, guid: 8b38868ca581f9549937a34e66183ddb, type: 2}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 0}
+  properGameObject: {fileID: 0}
+  onlyAllowOne: 0
+  tileName: 
+  previewImage: {fileID: 3897872975755918661, guid: 98198701792fc8145b008ea84b84c16b, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 11_Window
+  m_EditorClassIdentifier: 
+  tilemap: 2
+  tile: {fileID: 11400000, guid: c8cf704b476b50b45ac8897601c3c371, type: 2}
+  extraTile: {fileID: 11400000, guid: 30ca79d97b35474419d54836049fb418, type: 2}
+  tileName: Window
+  previewImage: {fileID: -6281419197251569427, guid: 7b48702fa47b7fd459dfb5db3e497376, type: 3}

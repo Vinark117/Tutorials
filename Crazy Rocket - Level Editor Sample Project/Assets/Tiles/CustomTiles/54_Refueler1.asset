@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 54_Refueler1
+  m_EditorClassIdentifier: 
+  tilemap: 8
+  tilemode: 1
+  editorTile: {fileID: 0}
+  tile: {fileID: 0}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 3949853859405608541, guid: 2a91b76ee7c4a3d41aebd9054d850286, type: 3}
+  properGameObject: {fileID: 3949853859405608541, guid: c86521d00b28a5b4791d6dc4d2ec4342, type: 3}
+  onlyAllowOne: 0
+  tileName: Refue Zone Slow
+  previewImage: {fileID: 21300000, guid: 78dc33ec8662ecf4194e89c904176360, type: 3}

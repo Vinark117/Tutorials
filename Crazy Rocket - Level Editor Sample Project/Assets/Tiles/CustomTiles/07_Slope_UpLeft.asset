@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 07_Slope_UpLeft
+  m_EditorClassIdentifier: 
+  tilemap: 3
+  tile: {fileID: 11400000, guid: c88f5042ff82fd04ba7dd70e2054bdde, type: 2}
+  extraTile: {fileID: 0}
+  tileName: Slope Up Left
+  previewImage: {fileID: 346595331228482878, guid: d1d5aaecf43c3024db6bc250cc1b0f0b, type: 3}

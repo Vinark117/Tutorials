@@ -1,0 +1,42 @@
+Layer information:
+
+-1000 - Level editor grid
+00 - Background
+01 - Window mask
+02 - Terrain
+03 - Window border
+15 - Screws
+18 - Fuel
+19 - Antigravity preview
+20 - Antigravity particle
+20 - Boost
+20 - Particles
+21 - Lasers
+23 - Player back wings
+24 - Player skin
+25 - Player details
+26 - Player Front wing
+27 - Fire burning overlay
+30 - Landing pad
+35 - Switches
+40 - Gates
+50 - Obstacles
+60 - Foreground
+61 - Foreground border
+100 - Level editor tilemap prewiev
+300 - Level editor selection square
+500 - gridlines
+
+Canvas layers:
+
+Endless hardness scales:
+0 - large open space; no deadly obstacles
+1 - not as open space, or has obstacle to avoid; no deadly obstacles
+2 - has laser to avoid, or harder obstacles
+3 - tight spaces, shring and growth laser
+4 - portals
+5 -
+6 - antigravity zones
+7 -
+8 -
+9 -

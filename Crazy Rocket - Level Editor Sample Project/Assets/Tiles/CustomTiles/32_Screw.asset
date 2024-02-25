@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 32_Screw
+  m_EditorClassIdentifier: 
+  tilemap: 7
+  tilemode: 0
+  editorTile: {fileID: 11400000, guid: b6d5eca5b3988d3499dac1bc88ec144c, type: 2}
+  tile: {fileID: 11400000, guid: ea360f7577af8ed44b68b52548f4a0f0, type: 2}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 0}
+  properGameObject: {fileID: 0}
+  onlyAllowOne: 0
+  tileName: Screw
+  previewImage: {fileID: 21300000, guid: 5310a1da03c6f0444905b8f73924e6e5, type: 3}

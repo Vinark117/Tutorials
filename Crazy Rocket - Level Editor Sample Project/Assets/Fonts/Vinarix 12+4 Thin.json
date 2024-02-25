@@ -1,0 +1,45 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"abcdefghijklmnopqrstuvwxyz",
+		"ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		"0123456789%$€¥£¢&*@#|<>~^'",
+		"áâàäåãæçéêèëíîìïıñóôòöőõøœ",
+		"šßúûùüűýÿžÂÀÄÅÃÆÇÉÊÈËÍÎÌÏÑ",
+		"ÓÔÒÖŐÕØŒŠÛÙÜŰÝŸ,:;-–—•.…“‘",
+		"‚„‹›«»/\\?!¿¡()[]{}©®§+×=_°"
+	],
+	"glyph-color": "white",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 12,
+	"glyph-height": 20,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 9,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 2048,
+	"font-line-gap": 512,
+	"font-ascend": 512,
+	"font-descend": -1024,
+	"font-px-size": 128,
+	"font-name": "Vinarix 12+4 Thin",
+	"font-author": "Vinark117",
+	"font-copy": "",
+	"font-version": "Version 1.0",
+	"font-desc": "A 12 pixel high font based on Calibri bold",
+	"font-license": "Only use this font with the author's permission",
+	"font-license-url": "",
+	"font-sample-text": "Hello!",
+	"font-preview-text": [
+		"This is a text",
+		"This is the next line,",
+		"And this is the next"
+	]
+}

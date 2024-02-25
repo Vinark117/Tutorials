@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 36_Blue_Pressure_Plate
+  m_EditorClassIdentifier: 
+  tilemap: 13
+  tilemode: 1
+  editorTile: {fileID: 0}
+  tile: {fileID: 0}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 5615422150735455074, guid: 33f1b7752927e89459bd63fb527e80e4, type: 3}
+  properGameObject: {fileID: 5615422150735455074, guid: 33f1b7752927e89459bd63fb527e80e4, type: 3}
+  onlyAllowOne: 0
+  tileName: Blue Pressure Plate
+  previewImage: {fileID: -7928438404432655663, guid: 9060dcd5dc9d357488246a37d3ac9c1b, type: 3}

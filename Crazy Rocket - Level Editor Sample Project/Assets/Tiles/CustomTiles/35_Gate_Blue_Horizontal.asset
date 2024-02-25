@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 35_Gate_Blue_Horizontal
+  m_EditorClassIdentifier: 
+  tilemap: 12
+  tilemode: 0
+  editorTile: {fileID: 0}
+  tile: {fileID: 11400000, guid: fdcd635e68cbe0445818bdc84f33c71f, type: 2}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 0}
+  properGameObject: {fileID: 0}
+  onlyAllowOne: 0
+  tileName: Blue Gate Horizontal
+  previewImage: {fileID: 6454908658870435076, guid: 9060dcd5dc9d357488246a37d3ac9c1b, type: 3}

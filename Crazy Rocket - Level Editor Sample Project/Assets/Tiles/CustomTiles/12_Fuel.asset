@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 12_Fuel
+  m_EditorClassIdentifier: 
+  tilemap: 7
+  tilemode: 0
+  editorTile: {fileID: 0}
+  tile: {fileID: 11400000, guid: 88f5cffc42699d84490cc0978c084503, type: 2}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 0}
+  properGameObject: {fileID: 0}
+  onlyAllowOne: 0
+  tileName: Fuel
+  previewImage: {fileID: 21300000, guid: d198e219d7897534bb8575fa06bd9c8f, type: 3}

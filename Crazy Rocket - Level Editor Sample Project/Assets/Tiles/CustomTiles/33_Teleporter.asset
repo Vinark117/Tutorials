@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559b11b8b7e90424a8ee7bd37d15c476, type: 3}
+  m_Name: 33_Teleporter
+  m_EditorClassIdentifier: 
+  tilemap: 8
+  tilemode: 1
+  editorTile: {fileID: 0}
+  tile: {fileID: 0}
+  extraTile: {fileID: 0}
+  editorGameObject: {fileID: 3301347450494495648, guid: 640a20e878613ab43bef58d36d5abca0, type: 3}
+  properGameObject: {fileID: 3301347450494495648, guid: 6a0cd4ed4fb1aa840ae308499b74db66, type: 3}
+  onlyAllowOne: 0
+  tileName: Teleporter
+  previewImage: {fileID: -5863282430321079616, guid: 761297e4460391e46a1fe4a0c760773c, type: 3}
